@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "00TheUnstableSMP00.aternos.me",
-    "port": 54923,
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
