@@ -8,7 +8,7 @@
   "server": {
     "ip": "LexiconLifestealSMP.aternos.me",
     "port":48481 ,
-    "version": "26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Ojas@2012"
     },
     "anti-afk": {
       "enabled": true,
